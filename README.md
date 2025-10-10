@@ -1,6 +1,6 @@
 <!-- Profile README for a Data Analyst -->
 <h1 align="center">👋 Hi, I'm Meghavi Bansod</h1>
-<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI | Tableau</h3>
+<h3 align="center">Aspiring Data Analyst | Python Developer | SQL | Power BI | Tableau</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -12,24 +12,25 @@
 
 ---
 
+
 ### 💡 About Me  
-- 🎯 Passionate about **turning data into actionable insights**  
-- 💻 Skilled in **Python, SQL, Power BI, Tableau, and Excel**  
-- 📊 Experienced in **data cleaning, EDA, visualization, and storytelling**  
-- 🧠 Currently learning **Advanced Analytics & Machine Learning for Business**  
-- 🌱 Exploring **real-world data projects and case studies**  
-- 💬 Ask me about **data visualization, Python for analytics, and SQL queries**  
+- 🎯 I’m a **Aspiring Data Analyst** passionate about exploring data, visualizing and finding meaningful insights.  
+- 💻 I’ve worked extensively with **Python libraries** like Pandas, NumPy, Matplotlib, Seaborn, and BeautifulSoup for web scraping and analysis.
+- 💻 Experienced in **Python Development**, **APIs**, **Web Scraping**
+- 📊 I’m currently **learning Data Analytics** and building hands-on projects to strengthen my analytical and visualization skills.
+- 🧠 Also interested in **Data Science** and applying **Machine Learning** to solve real-world problems.  
+- 💬 Ask me about **data visualization, Python for analytics, and SQL queries**
 
 ---
 
 ### 🧰 Tech Stack
 | Category | Tools / Technologies |
 |-----------|----------------------|
-| **Languages** | Python, SQL, R (Basic) |
-| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
+| **Languages** | Python, SQL |
+| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, BeautifulSoup, Requests, Selenium, Scrapy, Telethon |
 | **Visualization** | Power BI, Tableau, Matplotlib |
 | **Databases** | MySQL, PostgreSQL |
-| **Other Tools** | Excel, Google Sheets, Git, GitHub |
+| **Other Tools** | Excel, Google Sheets, Git, GitHub, Visual Studio code, Jupyter Notebook |
 
 ---
 
@@ -40,9 +41,12 @@
 
 #### 🧠 [Autism Prediction (Machine Learning)](https://github.com/Meghavibansod/Autism-Prediction)
 > Built a machine learning model to predict autism likelihood based on behavioral and screening attributes.
+>
+> #### 🎵 [Music Store Data Analysis](https://github.com/Meghavibansod/Music-Store-Data-Analysis)
+> Performed SQL-based analysis on a music store dataset to understand sales performance, popular tracks, and customer trends.
 
-#### 💼 [HR Analytics Dashboard](https://github.com/Meghavibansod/HR-Analytics)
-> Designed an interactive Power BI dashboard to identify employee attrition factors and workforce insights.
+#### 🌐 [Web Scraping Project](https://github.com/Meghavibansod/Web-Scraping-Project)
+> Extracted and analyzed data from multiple websites using Python (BeautifulSoup, Selenium, Scrapy) to gather insights efficiently.
 
 #### 📊 [COVID-19 Data Visualization](https://github.com/Meghavibansod/COVID19-Visualization)
 > Created visual dashboards to track global COVID-19 trends and vaccination data using Python and Tableau.
@@ -67,4 +71,5 @@
 
 ---
 
-⭐ **"Data tells stories — I love finding them."**
+⭐ **“Data is the new oil, and Python is my refinery.”**
+
