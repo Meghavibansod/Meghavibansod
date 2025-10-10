@@ -41,8 +41,8 @@
 
 #### 🧠 [Autism Prediction (Machine Learning)](https://github.com/Meghavibansod/Autism-Prediction)
 > Built a machine learning model to predict autism likelihood based on behavioral and screening attributes.
->
-> #### 🎵 [Music Store Data Analysis](https://github.com/Meghavibansod/Music-Store-Data-Analysis)
+
+#### 🎵 [Music Store Data Analysis](https://github.com/Meghavibansod/Music-Store-Data-Analysis)
 > Performed SQL-based analysis on a music store dataset to understand sales performance, popular tracks, and customer trends.
 
 #### 🌐 [Web Scraping Project](https://github.com/Meghavibansod/Web-Scraping-Project)
