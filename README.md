@@ -16,7 +16,7 @@
 ### 💡 About Me  
 - 🎯 I’m an **Aspiring Data Analyst** passionate about exploring data, visualizing and finding meaningful insights.  
 - 💻 I’ve worked extensively with **Python libraries** like Pandas, NumPy, Matplotlib, Seaborn, and BeautifulSoup for web scraping and analysis.
-- 💻 Two year job Experience in **Data Analysis**, **Python Development**, **APIs**, **Web Scraping** and 6 months intership in the relevant. 
+- 💻 Two year job Experience in **Data Analysis**, **Python Development**, **SQL**, **API Integration**, **Web Scraping** . 
 - 📊 I’m currently **learning Data Analytics** and building hands-on projects to strengthen my analytical and visualization skills.
 - 🧠 Also interested in **Data Science** and applying **Machine Learning** to solve real-world problems.  
 - 💬 Ask me about **data visualization, Python for analytics, and SQL queries**
