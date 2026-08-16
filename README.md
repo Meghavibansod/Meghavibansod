@@ -1,6 +1,6 @@
 <!-- Profile README for a Data Analyst -->
 <h1 align="center">👋 Hi, I'm Meghavi Bansod</h1>
-<h3 align="center">Aspiring Data Analyst | Python Developer | SQL | Power BI | Tableau</h3>
+<h3 align="center"> Software developer | Data Analyst | Python Developer | SQL | Power BI | Tableau</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
