@@ -13,6 +13,7 @@
 ---
 
 💡 About Me
+
 🎯 I’m a Software Developer & Data Analyst passionate about building solutions with Python, working with data, and finding meaningful insights.
 💻 I have 1 year of professional experience as a Software Developer, working with Python, SQL, API Integration, Web Scraping, and Data Analysis.
 👨‍💻 I also have 1 year of internship experience in Web Development and Python-based projects.
